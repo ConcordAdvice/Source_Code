@@ -10,6 +10,12 @@ library(glmnet)
 library(Formula)
 
 
+# We will add new features to the Data Clean
+# 1. All out of range to a specific value
+# 2. All data type transformed to the dictionary
+
+
+
 
 
 # <------------------------------------------------------------------->
